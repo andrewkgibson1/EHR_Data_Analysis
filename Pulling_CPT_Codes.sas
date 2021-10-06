@@ -9,6 +9,7 @@
 
 libname lla '/data/dart/2020/ord_zakhary_202010038d/Data';
 
+* this is an example of an edit in the code;
 
 PROC SQL;
    CREATE TABLE WORK.metacpt AS 
